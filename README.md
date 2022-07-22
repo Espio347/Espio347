@@ -11,7 +11,7 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Espio347&count_private=true&include_all_commits=true&show_icons=true&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333" />
 <a />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espio347&layout=compact&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espio347&layout=compact&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
