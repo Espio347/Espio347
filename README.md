@@ -37,5 +37,5 @@ You can contact me via My Socials!
   
 <h3 align="left">My Github Metrics</h3>
 
-![Metrics](https://metrics.lecoq.io/Espio347?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)  
+![Metrics](https://metrics.lecoq.io/Espio347?template=classic&base.header=0&gists=1&lines=1)  
   
