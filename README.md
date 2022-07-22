@@ -12,7 +12,7 @@
 <a />
   
 <a href="">
-  <img align="centre" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espio347&layout=compact&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333)" />
+  <img align="centre" src="![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=Espio347&layout=compact&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333" />
 <a /> 
 
 <!---
