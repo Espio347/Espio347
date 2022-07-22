@@ -1,11 +1,9 @@
 <p align="left"><img width=15%" src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/bannessr.gif" alt="lang image here" /></p>
 <hr></hr>
-  Hi there this is a test
-- 👋 Hi, I’m Naman Kishwan aka @Espio347
-- 👀 I’m interested in JAVA and Love Programming and Designing a Lot
-- 🌱 I’m currently learning JAVA Advanced and 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+  Hi there! I’m Naman Kishwan aka @Espio347,a Coding Enthusiast.I am interested in JAVA Programming and Graphic Designing.
+  I’m currently learning JAVA Advanced and Developement in Different small stuff to MAX HEAPIFY my Coding Skills ;) 
+<hr></hr>
 
 ## <h3 align="left">GitHub Stats</h3>
 
