@@ -30,8 +30,11 @@ I’m currently learning JAVA Advanced and Developement in Different small stuff
 <h3 align="left">How to Reach Me</h3>
 You can contact me via My Socials!
  
-[<img src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/linkedin_.png" height="30em" align="center" alt="Visit Espio347 on LinkedIn" title="Visit Espio347 on LinkedIn"/>](https://www.linkedin.com/in/naman-kishwan-6a9123239/)
-[<img src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/discord_.png" height="40em" align="center" alt="Visit Espio347 on Discord" title="Visit Espio347 on Discord"/>](https://discord.gg/9xT8XNdxu8)  
+<p align="center">
+    <a href="https://www.linkedin.com/in/naman-kishwan-6a9123239/">
+        <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=A5C9CA" alt="Linkedin" />
+    </a>
+</p>
 <hr></hr>
 <!--- Github Metrics --->  
   
