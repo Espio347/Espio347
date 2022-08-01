@@ -1,5 +1,5 @@
 <!--- Banner --->
-<p align="left"><img width=15%" src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/bannessr.gif" alt="lang image here" /></p>
+<p> <img width=15%" src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/bannessr.gif" alt="welcome_banner"></img></p>
 <hr></hr>
   
 <!--- About Section --->
@@ -11,7 +11,7 @@ I’m currently learning JAVA Advanced and Developement in Different small stuff
   
 <!--- My Skills --->
   <h3 align="left">My Skills</h3>
-  <p align="left"><img width=50%" src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/SKILLS.png" alt="lang image here" /></p>
+  <p align="left"><img width=50%" src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/SKILLS.png" alt="lang_image_here"></img></p>
   <hr></hr>
   
 <!--- Github Stats --->
