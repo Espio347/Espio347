@@ -8,20 +8,24 @@
 Hi there! I’m Naman Kishwan aka @Espio347,a Coding Enthusiast.I am interested in JAVA Programming and Graphic Designing.
 I’m currently learning JAVA Advanced and Developement in Different small stuff to MAX HEAPIFY my Coding Skills ;) 
 <hr></hr>
-  
-<!--- My Skills --->
-  <h3 align="left">My Skills</h3>
-  <img src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/SKILLS.png" alt="lang_image_here">
-  <hr></hr>
-  
-<!--- Github Stats --->
-  
-<h3 align="left">GitHub Stats</h3>
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Espio347&count_private=true&include_all_commits=true&show_icons=true&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Espio347&layout=compact&title_color=A5C9CA&text_color=E7F6F2&icon_color=395B64&bg_color=2C3333&langs_count=8)
+
+
+### Technical Skills 🛠
+
+- **Language:** C/C++, Java, JavaScript, Python
+- **Development:** HTML, Cascading Style Sheets (CSS), SASS, Chakra UI, Material UI, React.js, Node.js, Express.js, Springboot
+- **DevOps:** Linux, YAML, Shell Scripting, CI, Docker, Kubernetes, Kafka, Grafana, Prometheus, Terraform, Ansible, Jenkins
+- **Databases:** SQL, MongoDB, Redis, Elasticsearch
+- **Platform:** Google Cloud Platform (GCP)
+- **Others:** Algorithm Design & Analysis, Data Structures, Object-Oriented Programming, Problem Solving, Database Management System, Operating System, Full Stack Software Development, DevOps
+
+### Projects 🪧  
+
+| Project Name | Description |
+| -- | -- |
+| [N/A](https://github.com/) | Description. |
+
+
 
 <hr></hr>  
 
