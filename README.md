@@ -1,23 +1,16 @@
 <!--- Banner --->
-<img src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/bannessr.gif" alt="welcome_banner">
-<hr></hr>
+<!---<img src="https://github.com/Espio347/PrivateGitProfileStuff/blob/main/bannessr.gif" alt="welcome_banner">
+<hr></hr>--->
   
 <!--- About Section --->
-  <h3 align="center"><b>About Me</b></h3>
+### About Me
   
-Hi there! I’m Naman Kishwan aka @Espio347,a Coding Enthusiast.I am interested in JAVA Programming and Graphic Designing.
-I’m currently learning JAVA Advanced and Developement in Different small stuff to MAX HEAPIFY my Coding Skills ;) 
+Greetings! I'm Naman Kishwan, also known as @Espio347. I'm enthusiastically exploring the realms of C++ coding and setting my sights on web development. I'm interested in C++ while actively engaging in web projects to enhance my skills.
 <hr></hr>
-
 
 ### Technical Skills 🛠
 
-- **Language:** C/C++, Java, JavaScript, Python
-- **Development:** HTML, Cascading Style Sheets (CSS), SASS, Chakra UI, Material UI, React.js, Node.js, Express.js, Springboot
-- **DevOps:** Linux, YAML, Shell Scripting, CI, Docker, Kubernetes, Kafka, Grafana, Prometheus, Terraform, Ansible, Jenkins
-- **Databases:** SQL, MongoDB, Redis, Elasticsearch
-- **Platform:** Google Cloud Platform (GCP)
-- **Others:** Algorithm Design & Analysis, Data Structures, Object-Oriented Programming, Problem Solving, Database Management System, Operating System, Full Stack Software Development, DevOps
+- **Languages:** C/C++,JavaScript
 
 ### Projects 🪧  
 
