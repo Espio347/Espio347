@@ -16,7 +16,8 @@ Greetings! I'm Naman Kishwan, also known as @Espio347. I'm enthusiastically expl
 
 | Project Name | Description |
 | -- | -- |
-| [N/A](https://github.com/) | Description. |
+| [Random User Generator Using ReactJS](https://github.com/Espio347/Random-User-Generator-Using-React) | A Beginner Friendly React Project to Generate Random Users for Filler Purposes. |
+| [YARN - Your AI Based Resourceful Network](https://github.com/Espio347/YARN-Your-AI-Based-Resourceful-Network) | An Experimental Social Media Website with Artificial Intelligence Features. |
 
 
 
