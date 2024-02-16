@@ -10,7 +10,7 @@ Greetings! I'm Naman Kishwan, also known as @Espio347. I'm enthusiastically expl
 
 ### Technical Skills 🛠
 
-- **Languages:** C/C++,JavaScript
+- **Languages:** C/C++,HTML,CSS,JavaScript
 
 ### Projects 🪧  
 
